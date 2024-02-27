@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArmandtRoodt
-- 👀 I’m interested in DevSecOps and information security in general.
-- 💞️ I’m looking to collaborate on anything that may produce value and that I would be competent to help with.
+- 🦾 I write code.
 - 📫 How to reach me https://www.linkedin.com/in/armandt-roodt/
 
 <!---
